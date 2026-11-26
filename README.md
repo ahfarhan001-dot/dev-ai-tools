@@ -35,7 +35,7 @@ Skills are plain Markdown — copy a skill folder into your AI tool's skills dir
 
 ## Roadmap
 
-- More skills: test-writer, readme-writer, refactor-helper
+- More skills: refactor-helper
 - More tools: duplicate-code finder, import cleaner, changelog generator
 - Every addition stays small, documented, and dependency-free where possible
 
